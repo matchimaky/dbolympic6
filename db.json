@@ -1,0 +1,55 @@
+{
+    "country": [
+        {
+            "id": "GRE",
+            "name": "Greece",
+            "description": "Greece is known for its ancient history and contributions to art, philosophy, and politics. The country has a strong tradition in athletics, especially in sports like wrestling and gymnastics."
+        },
+        {
+            "id": "ARG",
+            "name": "Argentina",
+            "description": "Argentina is renowned for its passionate football culture and success in sports like rugby and basketball. The country also has a strong tradition in tennis and polo."
+        },
+        {
+            "id": "EGY",
+            "name": "Egypt",
+            "description": "Egypt is known for its rich ancient history and cultural heritage. In sports, the country has notable achievements in weightlifting, wrestling, and football."
+        },
+        {
+            "id": "TUN",
+            "name": "Tunisia",
+            "description": "Tunisia is recognized for its history and cultural contributions. The country excels in sports such as athletics, handball, and swimming."
+        },
+        {
+            "id": "BOT",
+            "name": "Botswana",
+            "description": "Botswana is known for its rich wildlife and cultural heritage. In sports, it has emerging talent, particularly in athletics and boxing."
+        },
+        {
+            "id": "CHI",
+            "name": "Chile",
+            "description": "Chile is known for its diverse landscapes and cultural heritage. It has strong performances in sports like athletics, tennis, and football."
+        },
+        {
+            "id": "LCA",
+            "name": "Saint Lucia",
+            "description": "Saint Lucia is known for its beautiful landscapes and vibrant culture. It has emerging athletes in sports such as athletics and swimming."
+        },
+        {
+            "id": "UGA",
+            "name": "Uganda",
+            "description": "Uganda is recognized for its diverse cultures and emerging sports talent. It has strong performances in athletics and football."
+        },
+        {
+            "id": "DOM",
+            "name": "Dominican Republic",
+            "description": "The Dominican Republic is known for its vibrant culture and success in baseball. The country also has notable achievements in athletics and volleyball."
+        },
+        {
+            "id": "GUA",
+            "name": "Guatemala",
+            "description": "Guatemala is known for its rich cultural heritage and vibrant traditions. In sports, it has notable achievements in weightlifting and athletics."
+        }
+    ]
+  }
+  
